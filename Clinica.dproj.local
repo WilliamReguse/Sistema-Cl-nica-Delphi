@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2020/09/13 22:18:35.000.808,=C:\Users\Julia Dar'c\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2020/09/13 22:19:21.000.763,C:\Users\Julia Dar'c\Documents\Embarcadero\Studio\Projects\Unit2.pas=C:\Users\Julia Dar'c\Desktop\DELPHI\SistemaClinica\unittPrincipal.pas</Transaction>
+    <Transaction>2020/09/13 22:19:21.000.763,C:\Users\Julia Dar'c\Documents\Embarcadero\Studio\Projects\Unit2.dfm=C:\Users\Julia Dar'c\Desktop\DELPHI\SistemaClinica\unittPrincipal.dfm</Transaction>
+    <Transaction>2020/09/13 22:19:27.000.076,C:\Users\Julia Dar'c\Documents\Embarcadero\Studio\Projects\Project2.dproj=C:\Users\Julia Dar'c\Desktop\DELPHI\SistemaClinica\Clinica.dproj</Transaction>
+    <Transaction>2020/09/13 22:50:06.000.922,=C:\Users\Julia Dar'c\Desktop\DELPHI\SistemaClinica\Unit1.pas</Transaction>
+    <Transaction>2020/09/13 22:51:01.000.918,C:\Users\Julia Dar'c\Desktop\DELPHI\SistemaClinica\Unit1.dfm=C:\Users\Julia Dar'c\Desktop\DELPHI\SistemaClinica\unitCadPacientes.dfm</Transaction>
+    <Transaction>2020/09/13 22:51:01.000.918,C:\Users\Julia Dar'c\Desktop\DELPHI\SistemaClinica\Unit1.pas=C:\Users\Julia Dar'c\Desktop\DELPHI\SistemaClinica\unitCadPacientes.pas</Transaction>
+    <Transaction>2020/09/13 22:51:23.000.586,=C:\Users\Julia Dar'c\Desktop\DELPHI\SistemaClinica\Unit3.pas</Transaction>
+    <Transaction>2020/09/13 22:52:04.000.996,C:\Users\Julia Dar'c\Desktop\DELPHI\SistemaClinica\Unit3.dfm=C:\Users\Julia Dar'c\Desktop\DELPHI\SistemaClinica\unitCadAgendamentos.dfm</Transaction>
+    <Transaction>2020/09/13 22:52:04.000.996,C:\Users\Julia Dar'c\Desktop\DELPHI\SistemaClinica\Unit3.pas=C:\Users\Julia Dar'c\Desktop\DELPHI\SistemaClinica\unitCadAgendamentos.pas</Transaction>
+    <Transaction>2020/09/13 23:20:58.000.771,=C:\Users\Julia Dar'c\Desktop\DELPHI\SistemaClinica\Unit1.pas</Transaction>
+    <Transaction>2020/09/13 23:28:53.000.127,C:\Users\Julia Dar'c\Desktop\DELPHI\SistemaClinica\Unit1.pas=C:\Users\Julia Dar'c\Desktop\DELPHI\SistemaClinica\unitDM.pas</Transaction>
+    <Transaction>2020/09/13 23:28:53.000.127,C:\Users\Julia Dar'c\Desktop\DELPHI\SistemaClinica\Unit1.dfm=C:\Users\Julia Dar'c\Desktop\DELPHI\SistemaClinica\unitDM.dfm</Transaction>
+  </Transactions>
+</BorlandProject>

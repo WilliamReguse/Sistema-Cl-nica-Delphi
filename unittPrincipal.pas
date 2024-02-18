@@ -18,7 +18,6 @@ type
     Panel1: TPanel;
     BitBtn1: TBitBtn;
     BitBtn2: TBitBtn;
-    Image1: TImage;
     procedure Sair1Click(Sender: TObject);
     procedure Clientes1Click(Sender: TObject);
     procedure Agendamentos1Click(Sender: TObject);

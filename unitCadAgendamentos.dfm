@@ -49,6 +49,13 @@ object formCadAgendamentos: TformCadAgendamentos
     Height = 13
     Caption = 'Nome do M'#233'dico'
   end
+  object Hora: TLabel
+    Left = 173
+    Top = 177
+    Width = 23
+    Height = 13
+    Caption = 'Hora'
+  end
   object Panel1: TPanel
     Left = 0
     Top = 0
@@ -163,5 +170,15 @@ object formCadAgendamentos: TformCadAgendamentos
         Title.Caption = 'M'#201'DICO'
         Visible = True
       end>
+  end
+  object DBEdit3: TDBEdit
+    Left = 173
+    Top = 196
+    Width = 168
+    Height = 21
+    DataField = 'hora'
+    DataSource = DM.dsAgendamento
+    MaxLength = 5
+    TabOrder = 7
   end
 end

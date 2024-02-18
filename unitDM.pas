@@ -28,6 +28,7 @@ type
     tbAgendamentoespecialidade: TStringField;
     tbAgendamentomedico: TStringField;
     FDPhysMySQLDriverLink1: TFDPhysMySQLDriverLink;
+    tbAgendamentohora: TTimeField;
     procedure tbPacienteAfterInsert(DataSet: TDataSet);
   private
     { Private declarations }

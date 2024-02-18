@@ -23,6 +23,8 @@ type
     DBEdit4: TDBEdit;
     Label7: TLabel;
     DBGrid1: TDBGrid;
+    DBEdit3: TDBEdit;
+    Hora: TLabel;
   private
     { Private declarations }
   public

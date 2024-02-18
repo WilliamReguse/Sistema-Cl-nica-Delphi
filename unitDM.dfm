@@ -88,6 +88,12 @@ object DM: TDM
       Required = True
       Size = 30
     end
+    object tbAgendamentohora: TTimeField
+      FieldName = 'hora'
+      Origin = 'hora'
+      Required = True
+      EditMask = '!90:00;1;_'
+    end
   end
   object dsPaciente: TDataSource
     DataSet = tbPaciente
@@ -100,9 +106,7 @@ object DM: TDM
     Top = 112
   end
   object FDPhysMySQLDriverLink1: TFDPhysMySQLDriverLink
-    VendorLib = 
-      'C:\Users\Sandro\Desktop\SistemaClinica-Delphi-master\libmysql.dl' +
-      'l'
+    VendorLib = 'C:\Users\Sandro\Desktop\Sistema-Clinica\libmysql.dll'
     Left = 160
     Top = 264
   end
